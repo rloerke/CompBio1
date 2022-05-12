@@ -1,0 +1,24 @@
+dna_10_11.fasta
+dna_identity_51.mat
+1
+0
+-2
+
+# Global alignment
+#AAGAT--ATAGT-
+#-CG-TCGGGAATC
+#Score: 6
+## Matches: 4
+## Misatches: 4
+## Gaps: 5
+#% Similarity: 40.0
+
+
+# Local alignment
+#GATATA
+#GA-ATC
+#Score: 17
+## Matches: 4
+## Misatches: 1
+## Gaps: 1
+#% Similarity: 40.0

@@ -1,0 +1,24 @@
+hemoglobin_p.fasta
+blosum62.mat
+0
+0
+-2
+
+# Global alignment
+#ACCCACAAAA
+#ACCCACAAAA
+#Score: 10
+## Matches: 10
+## Misatches: 0
+## Gaps: 0
+#% Similarity: 100.0
+
+# Local alignment
+#ACCCACAAAA
+#ACCCACAAAA
+#Score: 10
+## Matches: 10
+## Misatches: 0
+## Gaps: 0
+#% Similarity: 100.0
+

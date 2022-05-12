@@ -1,0 +1,24 @@
+dna_same_10.fasta
+
+1
+0
+0
+
+# Global alignment
+#ACCCACAAAA
+#ACCCACAAAA
+#Score: 10
+## Matches: 10
+## Misatches: 0
+## Gaps: 0
+#% Similarity: 100.0
+
+# Local alignment
+#ACCCACAAAA
+#ACCCACAAAA
+#Score: 10
+## Matches: 10
+## Misatches: 0
+## Gaps: 0
+#% Similarity: 100.0
+
