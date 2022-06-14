@@ -1,7 +1,7 @@
 """
 Comp Bio Assignment 1
 Written by Ray Loerke
-Implementation of Needleman-Wunsch and Smith-Waterman Algorithms
+Implementation of the Needleman-Wunsch global sequence alignment algorithm
 """
 
 
